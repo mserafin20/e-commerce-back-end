@@ -35,4 +35,4 @@ The install command for this application is "npm i"
 
   [Github](https://github.com/mserafin20)
 
-  [Email](mailto: mmserafin20@gmail.com)
+  [Email](mailto:mmserafin20@gmail.com)
